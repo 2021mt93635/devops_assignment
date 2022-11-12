@@ -5,4 +5,5 @@ void main(char[] args)
     int c = a+b;
     // added print statement
     Console.WriteLine(c);
+    Console.ReadLine();
 }
