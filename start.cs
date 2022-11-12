@@ -6,4 +6,5 @@ void main(char[] args)
     // added print statement
     // comment added by devops user
     Console.WriteLine(c);
+    Console.ReadLine();
 }
