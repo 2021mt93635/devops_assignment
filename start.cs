@@ -9,4 +9,5 @@ void main(char[] args)
     // added readline - devops user
     // added readline - bits user
     Console.ReadLine();
+    Console.WriteLine("Thank you");
 }
